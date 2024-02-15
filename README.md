@@ -1,4 +1,4 @@
-![I'm Beginner ](https://i.pinimg.com/originals/a4/db/84/a4db848987378fed7c53d385324c0b72.gif)
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif">
 Hi!! I'm Sanjida Nahar
 I'm a Beginner Student
 I love to read books and want to be a programmer.
