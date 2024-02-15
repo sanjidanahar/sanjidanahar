@@ -1,7 +1,6 @@
-### Hi there 👋, I'm Sanjida Nahar
-#### I'm Beginner 
-![I'm Beginner ](https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif)
-
+![I'm Beginner ](https://i.pinimg.com/originals/a4/db/84/a4db848987378fed7c53d385324c0b72.gif)
+Hi!! I'm Sanjida Nahar
+I'm a Beginner Student
 I love to read books and want to be a programmer.
 
 Skills: MS Office/ JS / HTML / CSS / CANVA Design
@@ -23,7 +22,7 @@ Skills: MS Office/ JS / HTML / CSS / CANVA Design
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidanahar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjidanahar&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjidanahar&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sanjidanahar)  
 
