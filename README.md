@@ -2,7 +2,7 @@
 Hi!! I'm Sanjida Nahar
 I'm a Beginner Student
 I love to read books and want to be a programmer.
-<img align="right" alt="Coding"  src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif">
+<img align="top"  alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif">
 Skills: MS Office/ JS / HTML / CSS / CANVA Design
 
 - 🔭 I’m currently working on this page. 
